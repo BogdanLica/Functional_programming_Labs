@@ -1,4 +1,4 @@
-##### Find the type of different expressions
+#### Find the type of different expressions
 
 ```Haskell
 :type ['a','b','c']
