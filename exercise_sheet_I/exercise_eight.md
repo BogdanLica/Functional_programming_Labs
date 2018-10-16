@@ -29,3 +29,8 @@ last_element (x:xs) = if xs == [] then x else (last_element xs)
 
 last_element a
 ```
+5. Take
+```
+let a = [1,2,3,4,5]
+take 1 (reverse a)
+```
